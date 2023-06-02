@@ -1,16 +1,12 @@
-### Hi there 👋
 <p align="center">
-  <img src="logo.png" alt="Company Logo" width="200">
+  <img src="JsInfinityLogo.png" alt="Company Logo" width="200">
 </p>
 
 # Js_Infinity
 
+Hi there 👋 
+<br>
 Welcome to the official repository of Js_Infinity! This README file provides an overview of our company, products/services, and guidance for getting started.
-
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository.svg?style=social)](https://github.com/your-username/your-repository/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository.svg?style=social)](https://github.com/your-username/your-repository/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/your-repository.svg)](https://github.com/your-username/your-repository/issues)
-[![GitHub license](https://img.shields.io/github/license/your-username/your-repository.svg)](https://github.com/your-username/your-repository/blob/main/LICENSE)
 
 ## Table of Contents
 - [Company Overview](#company-overview)

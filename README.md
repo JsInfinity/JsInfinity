@@ -111,7 +111,7 @@ Stay connected with us on social media to get the latest updates, announcements,
 
 <ul style="list-style-type: 'none";>
   <li>
-    <a href="[your-linkedin-URL](https://www.linkedin.com/company/js-infinity/)">
+    <a href="https://www.linkedin.com/company/js-infinity/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </li>
